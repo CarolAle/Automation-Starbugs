@@ -8,7 +8,6 @@ Cenário: Acessar o catálogo de cafés na página principal
     Quando acesso a página principal da Starbugs
     Então eu devo ver uma lista de cafés disponíveis
 
-
 Cenário: Iniciar a compra de um café
     Dado que estou na página principal da Starbugs
         E que desejo comprar o seguinte produto:
